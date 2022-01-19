@@ -50,7 +50,8 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 - Python 3.8 or Higher.
 - [FFMpeg](https://www.ffmpeg.org/).
 
-
+### Deploy To Heroku</h4>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jimicreator/anonsjs)
 
 ## Deploy to Heroku
 
